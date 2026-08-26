@@ -11,21 +11,8 @@
 	<groupId>com.example</groupId>
 	<artifactId>API-Clima</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
-	<url/>
-	<licenses>
-		<license/>
-	</licenses>
-	<developers>
-		<developer/>
-	</developers>
-	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
-	</scm>
+	<name>API-Clima</name>
+	<description>API REST em Spring Boot que consome o Open-Meteo e disponibiliza o clima de Belo Horizonte - MG</description>
 	<properties>
 		<java.version>25</java.version>
 	</properties>
